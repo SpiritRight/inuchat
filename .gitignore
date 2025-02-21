@@ -1,0 +1,14 @@
+.env
+__pycache__/
+venv/
+chroma_inu-new
+chroma_inu_new
+chroma_inu
+Dockerfile
+.devcontainerchroma_inu-31M/
+chroma_inu-31M/
+chroma_inu-plus
+.devcontainer
+lib
+lib64
+inu_chat
